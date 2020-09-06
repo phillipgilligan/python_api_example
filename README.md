@@ -1,2 +1,2 @@
 # python_api_example
-A simple Python API Example using connexion, and swagger.
+A simple Python API Example using flask, connexion, and swagger.
